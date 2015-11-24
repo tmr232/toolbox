@@ -1,5 +1,4 @@
 # Toolbox
-Listing of all the tools I use.
 
 1. Sniffers & Analyzers
 	1. USB Sniffers
