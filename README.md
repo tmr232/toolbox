@@ -9,3 +9,4 @@
 2. .Net Reflectors
 	1. [dotPeek](https://www.jetbrains.com/decompiler/). Also allows for debugging the reflected code using Visual Studio.  
 	See [here](http://confluence.jetbrains.com/display/NETCOM/dotPeek+Symbol+Server+and+PDB+Generation).
+	2. [dnSpy](https://github.com/0xd4d/dnSpy). Open source and awesome, and allows for editing and rebuilding of assemblies.
